@@ -21,7 +21,7 @@ export default function Home() {
       </Head>
    
         <Layout >
-          <Tittle>Pagina principal</Tittle>
+          <Tittle>Pagina principal si</Tittle>
 
         </Layout>
 
